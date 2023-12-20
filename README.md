@@ -1,2 +1,4 @@
-# spell_checker
-This code checks for typos and misspellings and then corrects them using both statistical (word2vec) and rule-based approach(keyboard distance, damerau-levensthein algorithm and jaro).
+# word_corrector_python
+
+For the Word2Vec model to work, you need to add the two files in this rar file to the file directory.
+https://drive.google.com/file/d/1ljwPcaBUUPARyRDxWjaxJJFWJHWNStpr/view?usp=sharing
