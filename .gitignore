@@ -7,3 +7,4 @@ __pycache__/combine.cpython-311.pyc
 __pycache__/jaro.cpython-311.pyc
 model_save
 model_save.vectors.npy
+wordcorrector_cache.pkl
