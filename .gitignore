@@ -2,3 +2,4 @@
 model_save.vectors.npy
 model_save
 __pycache__
+wordcorrector_cache.pkl
